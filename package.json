@@ -1,11 +1,4 @@
 {
- 
-  "version": "5.1.1",
-  "type": "module",
-  "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=16.0.0"
-  },
   "scripts": {
     "start": "node index.js",
     "format": "npx prettier . --write"
